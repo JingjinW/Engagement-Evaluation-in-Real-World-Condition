@@ -1,5 +1,7 @@
 # Engagement-Evaluation-Based-On-Zoom-Recording
- In this project, I trained two random forest regression models to evaluate the engagement level of a person.
+ In this project, I used two random forest regression models to evaluate the engagement level of a person. 
+ 
+ Model 1 was based on facial action units (AUs), model 2 was based on head pose, eye gaze and face shape change.
  
 Reference:
 
